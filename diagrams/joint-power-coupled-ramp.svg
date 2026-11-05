@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460" role="img">
+<title>Zero at both samples, positive in between</title><desc>Dark dots are input times. The curve is an interpolation, not a recording.</desc>
+<rect width="800" height="460" rx="24" fill="#edf5f6"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#183948">
+<text x="32.00" y="49.00" font-size="29" font-weight="bold">Zero at both samples, positive in between</text>
+<text x="32.00" y="83.00" font-size="20" >A falling speed and rising torque multiply into a curve.</text>
+<rect x="104" y="124" width="642" height="242" fill="#fff" rx="6"/>
+<line x1="104.00" y1="366.00" x2="746.00" y2="366.00" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="373.00" font-size="19" text-anchor="end">0</text>
+<line x1="104.00" y1="305.50" x2="746.00" y2="305.50" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="312.50" font-size="19" text-anchor="end">3</text>
+<line x1="104.00" y1="245.00" x2="746.00" y2="245.00" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="252.00" font-size="19" text-anchor="end">6</text>
+<line x1="104.00" y1="184.50" x2="746.00" y2="184.50" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="191.50" font-size="19" text-anchor="end">9</text>
+<line x1="104.00" y1="124.00" x2="746.00" y2="124.00" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="131.00" font-size="19" text-anchor="end">12</text>
+<line x1="104.00" y1="124.00" x2="104.00" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="104.00" y="395.00" font-size="19" text-anchor="middle">0</text>
+<line x1="264.50" y1="124.00" x2="264.50" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="264.50" y="395.00" font-size="19" text-anchor="middle">0.5</text>
+<line x1="425.00" y1="124.00" x2="425.00" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="425.00" y="395.00" font-size="19" text-anchor="middle">1</text>
+<line x1="585.50" y1="124.00" x2="585.50" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="585.50" y="395.00" font-size="19" text-anchor="middle">1.5</text>
+<line x1="746.00" y1="124.00" x2="746.00" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="746.00" y="395.00" font-size="19" text-anchor="middle">2</text>
+<line x1="104.00" y1="366.00" x2="746.00" y2="366.00" stroke="#48616b" stroke-width="2" />
+<text x="104.00" y="114.00" font-size="18" >Joint power (W)</text>
+<text x="746.00" y="422.00" font-size="20" text-anchor="end">Time (s)</text>
+<path d="M 104.00 366.00 Q 425.00 -14.13 746.00 366.00 L 746.00 366.00 L 104.00 366.00 Z" fill="#a8e2d7"/>
+<path d="M 104.00 366.00 Q 425.00 -14.13 746.00 366.00" fill="none" stroke="#087368" stroke-width="4"/>
+<circle cx="104.00" cy="366.00" r="6" fill="#163949"/>
+<circle cx="746.00" cy="366.00" r="6" fill="#163949"/>
+<line x1="425.00" y1="366.00" x2="425.00" y2="175.93" stroke="#0a6059" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="437.00" y="170.93" font-size="21" font-weight="bold">9.425 W peak</text>
+<text x="32.00" y="438.00" font-size="17" >Dark dots are input times. The curve is an interpolation, not a recording.</text>
+</g></svg>

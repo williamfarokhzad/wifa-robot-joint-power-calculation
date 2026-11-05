@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460" role="img">
+<title>Positive endpoints can hide braking</title><desc>Green area is motoring work. Orange area is work absorbed at the joint.</desc>
+<rect width="800" height="460" rx="24" fill="#edf5f6"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#183948">
+<text x="32.00" y="49.00" font-size="29" font-weight="bold">Positive endpoints can hide braking</text>
+<text x="32.00" y="83.00" font-size="20" >Speed crosses zero at 1 s. Torque crosses zero at 3 s.</text>
+<rect x="104" y="124" width="642" height="242" fill="#fff" rx="6"/>
+<line x1="104.00" y1="366.00" x2="746.00" y2="366.00" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="373.00" font-size="19" text-anchor="end">-10</text>
+<line x1="104.00" y1="328.19" x2="746.00" y2="328.19" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="335.19" font-size="19" text-anchor="end">-5</text>
+<line x1="104.00" y1="290.38" x2="746.00" y2="290.38" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="297.38" font-size="19" text-anchor="end">0</text>
+<line x1="104.00" y1="252.56" x2="746.00" y2="252.56" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="259.56" font-size="19" text-anchor="end">5</text>
+<line x1="104.00" y1="214.75" x2="746.00" y2="214.75" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="221.75" font-size="19" text-anchor="end">10</text>
+<line x1="104.00" y1="176.94" x2="746.00" y2="176.94" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="183.94" font-size="19" text-anchor="end">15</text>
+<line x1="104.00" y1="139.12" x2="746.00" y2="139.12" stroke="#cadadd" stroke-width="1" />
+<text x="90.00" y="146.12" font-size="19" text-anchor="end">20</text>
+<line x1="104.00" y1="124.00" x2="104.00" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="104.00" y="395.00" font-size="19" text-anchor="middle">0</text>
+<line x1="264.50" y1="124.00" x2="264.50" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="264.50" y="395.00" font-size="19" text-anchor="middle">1</text>
+<line x1="425.00" y1="124.00" x2="425.00" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="425.00" y="395.00" font-size="19" text-anchor="middle">2</text>
+<line x1="585.50" y1="124.00" x2="585.50" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="585.50" y="395.00" font-size="19" text-anchor="middle">3</text>
+<line x1="746.00" y1="124.00" x2="746.00" y2="366.00" stroke="#e1ecee" stroke-width="1" />
+<text x="746.00" y="395.00" font-size="19" text-anchor="middle">4</text>
+<line x1="104.00" y1="290.38" x2="746.00" y2="290.38" stroke="#48616b" stroke-width="2" />
+<text x="104.00" y="114.00" font-size="18" >Joint power (W)</text>
+<text x="746.00" y="422.00" font-size="20" text-anchor="end">Time (s)</text>
+<path d="M 104.00 147.83 Q 184.25 242.86 264.50 290.38 L 264.50 290.38 L 104.00 290.38 Z" fill="#a8e2d7"/>
+<path d="M 104.00 147.83 Q 184.25 242.86 264.50 290.38" fill="none" stroke="#087368" stroke-width="4"/>
+<path d="M 264.50 290.38 Q 425.00 385.41 585.50 290.38 L 585.50 290.38 L 264.50 290.38 Z" fill="#ffcbae"/>
+<path d="M 264.50 290.38 Q 425.00 385.41 585.50 290.38" fill="none" stroke="#a43d16" stroke-width="4"/>
+<path d="M 585.50 290.38 Q 665.75 242.86 746.00 147.83 L 746.00 290.38 L 585.50 290.38 Z" fill="#a8e2d7"/>
+<path d="M 585.50 290.38 Q 665.75 242.86 746.00 147.83" fill="none" stroke="#087368" stroke-width="4"/>
+<circle cx="104.00" cy="147.83" r="6" fill="#163949"/>
+<circle cx="746.00" cy="147.83" r="6" fill="#163949"/>
+<circle cx="264.50" cy="290.38" r="5" fill="#183948"/>
+<circle cx="585.50" cy="290.38" r="5" fill="#183948"/>
+<text x="425.00" y="364.89" font-size="21" text-anchor="middle" font-weight="bold" fill="#893713">Braking</text>
+<text x="32.00" y="438.00" font-size="17" >Green area is motoring work. Orange area is work absorbed at the joint.</text>
+</g></svg>
